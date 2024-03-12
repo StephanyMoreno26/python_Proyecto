@@ -1,0 +1,142 @@
+[
+    {
+      "id_number": "1",
+      "first_name": "Elena",
+      "last_name": "López García",
+      "address": "Calle Sol",
+      "emergency_contact": "3165551234",
+      "numbers": [
+        "3187779999",
+        "6078881111"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "enrolled"
+    },
+    {
+      "id_number": "2",
+      "first_name": "Juan",
+      "last_name": "Martínez Rodríguez",
+      "address": "Avenida Principal",
+      "emergency_contact": "3166669876",
+      "numbers": [
+        "3188884444",
+        "6072223333"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "reprobate"
+    },
+    {
+      "id_number": "3",
+      "first_name": "Laura",
+      "last_name": "González Pérez",
+      "address": "Calle Luna",
+      "emergency_contact": "3167772345",
+      "numbers": [
+        "3189995555",
+        "6074446666"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "approved"
+    },
+    {
+      "id_number": "4",
+      "first_name": "Pedro",
+      "last_name": "Sánchez Romero",
+      "address": "Calle Estrella",
+      "emergency_contact": "3168883456",
+      "numbers": [
+        "3181117777",
+        "6079992222"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "approved"
+    },
+    {
+      "id_number": "5",
+      "first_name": "María",
+      "last_name": "Fernández Díaz",
+      "address": "Avenida Central",
+      "emergency_contact": "3169994567",
+      "numbers": [
+        "3182228888",
+        "6071114444"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "reprobate"
+    },
+    {
+      "id_number": "6",
+      "first_name": "Carlos",
+      "last_name": "Gómez Torres",
+      "address": "Carrera Norte",
+      "emergency_contact": "3160005678",
+      "numbers": [
+        "3183339999",
+        "6073335555"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "approved"
+    },
+    {
+      "id_number": "7",
+      "first_name": "Ana",
+      "last_name": "Pérez Fernández",
+      "address": "Callejón Sur",
+      "emergency_contact": "3161116789",
+      "numbers": [
+        "3184441111",
+        "6077778888"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "enrolled"
+    },
+    {
+      "id_number": "8",
+      "first_name": "Diego",
+      "last_name": "Martínez Gómez",
+      "address": "Calle Principal",
+      "emergency_contact": "3162227890",
+      "numbers": [
+        "3185552222",
+        "6076669999"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "approved"
+    },
+    {
+      "id_number": "9",
+      "first_name": "Laura",
+      "last_name": "González Pérez",
+      "address": "Calle Central",
+      "emergency_contact": "3163338901",
+      "numbers": [
+        "3186663333",
+        "6077772222"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "approved"
+    },
+    {
+      "id_number": "10",
+      "first_name": "Pedro",
+      "last_name": "Sánchez Romero",
+      "address": "Carrera Este",
+      "emergency_contact": "3164449012",
+      "numbers": [
+        "3187776666",
+        "6072225555"
+      ],
+      "route": "",
+      "trainer_id": "",
+      "state": "enrolled"
+    }
+]
